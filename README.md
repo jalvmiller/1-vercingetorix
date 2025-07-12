@@ -1,7 +1,7 @@
 # Hi; hallo; olá!
 
 
-### About Me📌 
+### About Me 
  
  🌍 Languages: 
     **EN-US; PT-BR**
@@ -16,6 +16,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 
 ## Skills that aren't related to Web-Development
 
