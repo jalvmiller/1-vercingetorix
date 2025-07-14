@@ -20,6 +20,6 @@
 
 
 
-## Skills that aren't related to Web-Development
+## Skills that aren't necessarily related to Web-Development
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
