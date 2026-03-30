@@ -13,6 +13,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Snake animation](https://github.com/1-vercingetorix/1-vercingetorix/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Contato - Contact
