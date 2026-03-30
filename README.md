@@ -17,12 +17,11 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1-vercingetorix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-vercingetorix&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 
 ## Skills that aren't necessarily related to Web-Development
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white){
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-alves-m%C3%BCller-11124a252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:joaomarceloalvesmuller@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
